@@ -15,7 +15,7 @@ export interface UserOptions {
 // https://vitejs.dev/guide/api-plugin.html
 export function themePlugin(userOptions: Partial<ThemeConfig> = defaultThemeConfig): Plugin {
   return {
-    name: 'valaxy-theme-starter',
+    name: 'valaxy-theme-moe',
 
     config() {
       return {

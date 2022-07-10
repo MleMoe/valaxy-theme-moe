@@ -1,11 +1,8 @@
 <p align="center">
-Valaxy-Theme-Starter<sup><em>(vue)</em></sup>
+Valaxy-Theme-Moe<sup><em>(vue)</em></sup>
 </p>
 
-[![npm](https://img.shields.io/npm/v/valaxy-theme-starter)](https://www.npmjs.com/package/valaxy-theme-starter)
-[![npm dev dependency version](https://img.shields.io/npm/dependency-version/valaxy-theme-starter/dev/valaxy)](https://github.com/YunYouJun/valaxy)
-
-> This is a template for creating a [valaxy](https://github.com/YunYouJun/valaxy) theme.
+> This is a [valaxy](https://github.com/YunYouJun/valaxy) theme just for fun and a promise.
 
 ## Usage
 
@@ -14,8 +11,8 @@ Valaxy-Theme-Starter<sup><em>(vue)</em></sup>
 > Use [pnpm](https://pnpm.io/), because we need its workspace.
 
 ```bash
-npx degit YunYouJun/valaxy-theme-starter valaxy-theme-name
-cd valaxy-theme-name
+git clone git@github.com:MleMoe/valaxy-theme-moe.git
+cd valaxy-theme-moe
 # If you don't have pnpm installed, run: npm install -g pnpm
 pnpm i
 ```
@@ -73,12 +70,4 @@ Let's write the theme & docs!
 
 ## Thanks
 
-Starter theme ref [vuejs/blog](https://github.com/vuejs/blog).
-
-### [Sponsors](https://sponsors.yunyoujun.cn)
-
-<p align="center">
-  <a href="https://sponsors.yunyoujun.cn">
-    <img src='https://fastly.jsdelivr.net/gh/YunYouJun/sponsors/public/sponsors.svg'/>
-  </a>
-</p>
+Thanks to xiao yun

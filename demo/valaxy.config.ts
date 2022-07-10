@@ -1,5 +1,5 @@
 import { defineConfig } from 'valaxy'
-import type { ThemeConfig } from 'valaxy-theme-starter'
+import type { ThemeConfig } from 'valaxy-theme-moe'
 
 /**
  * User Config
@@ -127,7 +127,7 @@ export default defineConfig<ThemeConfig>({
     },
   },
 
-  theme: 'starter',
+  theme: 'moe',
 
   themeConfig: {
     // colors: {

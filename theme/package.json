@@ -1,16 +1,14 @@
 {
-  "name": "valaxy-theme-starter",
-  "version": "0.2.0",
+  "name": "valaxy-theme-moe",
+  "version": "0.0.1",
   "packageManager": "pnpm@7.5.0",
   "author": {
-    "email": "me@yunyoujun.cn",
-    "name": "YunYouJun",
-    "url": "https://www.yunyoujun.cn"
+    "email": "i@mle.moe",
+    "name": "MleMoe"
   },
-  "homepage": "https://valaxy.site",
   "repository": {
     "type": "git",
-    "url": "https://github.com/YunYouJun/valaxy-theme-starter"
+    "url": "https://github.com/MleMoe/valaxy-theme-moe"
   },
   "keywords": [
     "valaxy",

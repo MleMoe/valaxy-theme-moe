@@ -27,10 +27,10 @@ jobs:
           cache: pnpm
 
       - run: pnpm run build
-      # https://docs.github.com/en/actions/publishing-packages/publishing-nodejs-packages
-      - run: pnpm ci:publish
-        env:
-          NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
+      # # https://docs.github.com/en/actions/publishing-packages/publishing-nodejs-packages
+      # - run: pnpm ci:publish
+      #   env:
+      #     NODE_AUTH_TOKEN: ${{secrets.NPM_TOKEN}}
 
       - run: npx changelogithub
         env:

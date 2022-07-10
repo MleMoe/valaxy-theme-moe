@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "valaxy": "^0.7.7",
-    "valaxy-theme-starter": "link:../"
+    "valaxy-theme-moe": "link:../"
   },
   "devDependencies": {
     "nodemon": "^2.0.19"
